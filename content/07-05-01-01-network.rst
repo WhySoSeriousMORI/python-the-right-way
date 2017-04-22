@@ -45,7 +45,7 @@ __ http://docs.python-requests.org/
 
 `Python Network Programming <http://www.tutorialspoint.com/python/python_networking.htm>`_
 
-در ضمن کتاب `Foundations of Python Network Programming <http://www.amazon.com/Foundations-Python-Network-Programming-comprehensive/dp/1430230037/>`_ به صورت مفصل تر به این موضوع پرداخته است، در این کتاب به پکیج‌های مفیدی معرفی شده که بعضی از آنها عبارتند از:
+در ضمن کتاب `Foundations of Python Network Programming <http://www.amazon.com/Foundations-Python-Network-Programming-comprehensive/dp/1430230037/>`_ به صورت مفصل تر به این موضوع پرداخته است، در این کتاب به پکیج‌های مفیدی اشاره شده که بعضی از آنها عبارتند از:
 
 برای کار با نقشه‌های گوگل می توانید از بسته `googlemaps <https://pypi.python.org/pypi/googlemaps>`_ استفاده کنید.
 
